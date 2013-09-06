@@ -6,6 +6,7 @@ When /^I perform a search for "([^"]*)"$/ do |search_criteria|
   @search_criteria = search_criteria
   @google.home_page.search_field.set @search_criteria
   @google.home_page.search_button.click
+  sleep 3
 end
 
 Then /^I should see that the URL contains my search criterion$/ do
