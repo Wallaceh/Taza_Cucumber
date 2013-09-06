@@ -1,4 +1,4 @@
-Cucumber_Taza
+Taza_Cucumber
 =============
 
-Blank Framework for Cucumber Taza
+Blank Framework for Cucumber and Taza with Ruby.

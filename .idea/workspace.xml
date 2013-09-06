@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="136cbce8-fb78-4f35-8f0e-0af2f9244401" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="Cucumber_Taza.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,6 +15,7 @@
     <file path="/env.rb" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378471696100" ignored="false" />
     <file path="/home_page.rb" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378477016359" ignored="false" />
     <file path="/Gemfile" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378477388341" ignored="false" />
+    <file path="/README.md" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378479582732" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +35,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="26" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="google.yml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/google.yml">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,10 +71,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="google_home.feature" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="google_home.feature" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/features/google_home.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="17" selection-start="244" selection-end="244" vertical-scroll-proportion="0.33802816">
+            <state line="8" column="17" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="4" column="33" selection-start="78" selection-end="78" vertical-scroll-proportion="0.16901408">
               <folding />
             </state>
           </provider>
@@ -153,6 +154,7 @@
         <option value="$PROJECT_DIR$/features/step_definitions/google_home_steps.rb" />
         <option value="$PROJECT_DIR$/lib/sites/google/pages/home_page.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -612,7 +614,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/features/google_home.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="17" selection-start="244" selection-end="244" vertical-scroll-proportion="0.33802816">
+        <state line="8" column="17" selection-start="244" selection-end="244" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="33" selection-start="78" selection-end="78" vertical-scroll-proportion="0.16901408">
           <folding />
         </state>
       </provider>
