@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="136cbce8-fb78-4f35-8f0e-0af2f9244401" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/taza_brower.rb" afterPath="$PROJECT_DIR$/features/support/taza_brower.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Cucumber_Taza.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378413448413" ignored="false" />
+    <file path="/Dummy.txt" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378498290873" ignored="false" />
     <file path="/google_home.feature" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378475304360" ignored="false" />
     <file path="/google_home_steps.rb" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378477026063" ignored="false" />
     <file path="/hooks.rb" changelist="136cbce8-fb78-4f35-8f0e-0af2f9244401" time="1378476112821" ignored="false" />
@@ -44,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="taza_brower.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="taza_brower.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/support/taza_brower.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="3" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
+            <state line="57" column="69" selection-start="3659" selection-end="3659" vertical-scroll-proportion="1.4636234">
               <folding />
             </state>
           </provider>
@@ -80,10 +81,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="33" selection-start="78" selection-end="78" vertical-scroll-proportion="0.16901408">
+            <state line="4" column="74" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -146,7 +147,6 @@
         <option value="$PROJECT_DIR$/google/lib/sites/google/pages/home_page.rb" />
         <option value="$PROJECT_DIR$/gemfile" />
         <option value="$PROJECT_DIR$/google/lib/sites/google.rb" />
-        <option value="$PROJECT_DIR$/features/support/taza_brower.rb" />
         <option value="$PROJECT_DIR$/Gemfile.lock" />
         <option value="$PROJECT_DIR$/features/support/env.rb" />
         <option value="$PROJECT_DIR$/features/google_home.feature" />
@@ -155,13 +155,15 @@
         <option value="$PROJECT_DIR$/lib/sites/google/pages/home_page.rb" />
         <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/features/support/taza_brower.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="5" />
+    <option name="x" value="16" />
+    <option name="y" value="37" />
     <option name="width" value="1842" />
-    <option name="height" value="928" />
+    <option name="height" value="859" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -189,6 +191,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -209,18 +212,17 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.File Status" />
     <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.File Status" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="FullScreen" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -431,18 +433,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="5" width="1842" height="928" extended-state="0" />
+    <frame x="16" y="37" width="1842" height="859" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25842696" sideWeight="0.56926954" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26123595" sideWeight="0.56926954" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4307305" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43066666" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -523,30 +525,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="48" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="60" column="48" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://C:/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://C:/Ruby193/lib/ruby/site_ruby/1.9.1/rubygems/custom_require.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="35" column="0" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="19" selection-start="1406" selection-end="1406" vertical-scroll-proportion="-25.16">
-          <folding />
-        </state>
+        <state line="58" column="19" selection-start="1406" selection-end="1406" vertical-scroll-proportion="-25.16" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config/google.yml">
@@ -566,13 +560,6 @@
     <entry file="file://$PROJECT_DIR$/features/support/env.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="52" column="25" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/taza_brower.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="3" selection-start="500" selection-end="500" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -621,7 +608,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="33" selection-start="78" selection-end="78" vertical-scroll-proportion="0.16901408">
+        <state line="4" column="74" selection-start="78" selection-end="78" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/taza_brower.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="69" selection-start="3659" selection-end="3659" vertical-scroll-proportion="1.4636234">
           <folding />
         </state>
       </provider>
